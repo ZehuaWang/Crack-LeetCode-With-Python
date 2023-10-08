@@ -1,6 +1,8 @@
 # Crack-LeetCode-With-Python
 Use the native Python to crack the Leet Code. 
 
+魔法击败魔法 雷霆击碎黑暗 -_-! 
+
 ## Arrays and Hashing
 
 In order to count the elements from the array, list. We can use the Counter class or Default Dict class. 
@@ -23,10 +25,16 @@ We can use set() to check if the list size has been reduced or use the Counter()
 
 Link to LeetCode: [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 
-49. Group Anagrams (Use Tuple as the key of a dictionary)
+49. Group Anagrams (Use Tuple as the key of a dictionary and use dictionary comprehension)
 
 Link to LeetCode: [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
 
 Link to Convert Python Key-Value Pair to Tuple [Convert key-value pair to typle](https://stackoverflow.com/questions/1600591/using-a-python-dictionary-as-a-key-non-nested)
 
 Conclusion: For all the Anagram questions, we use sort or count to hack it! 
+
+347. Top K Frequent Elements 老题新做
+
+Link to LeetCode: (347. Top K Frequent)[https://leetcode.com/problems/top-k-frequent-elements/description/]
+
+Use Counters and most_common API to hack it! 
