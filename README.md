@@ -38,3 +38,5 @@ Conclusion: For all the Anagram questions, we use sort or count to hack it!
 Link to LeetCode: (347. Top K Frequent)[https://leetcode.com/problems/top-k-frequent-elements/description/]
 
 Use Counters and most_common API to hack it! 
+
+Use max heap. 
