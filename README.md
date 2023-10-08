@@ -23,3 +23,10 @@ We can use set() to check if the list size has been reduced or use the Counter()
 
 Link to LeetCode: [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 
+49. Group Anagrams (Use Tuple as the key of a dictionary)
+
+Link to LeetCode: [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
+
+Link to Convert Python Key-Value Pair to Tuple [Convert key-value pair to typle](https://stackoverflow.com/questions/1600591/using-a-python-dictionary-as-a-key-non-nested)
+
+Conclusion: For all the Anagram questions, we use sort or count to hack it! 
