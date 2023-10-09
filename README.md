@@ -40,3 +40,8 @@ Link to LeetCode: (347. Top K Frequent)[https://leetcode.com/problems/top-k-freq
 Use Counters and most_common API to hack it! 
 
 Use max heap. 
+
+Use bucket sort. -> Key is the number of appearances, and value is the number.
+
+![image](https://github.com/ZehuaWang/Crack-LeetCode-With-Python/assets/40006814/9bbd6ebb-278d-415b-a04c-0de1fb14ae53)
+
