@@ -35,7 +35,7 @@ Conclusion: For all the Anagram questions, we use sort or count to hack it!
 
 347. Top K Frequent Elements 老题新做
 
-Link to LeetCode: (347. Top K Frequent)[https://leetcode.com/problems/top-k-frequent-elements/description/]
+Link to LeetCode: [347. Top K Frequent](https://leetcode.com/problems/top-k-frequent-elements/description/)
 
 Use Counters and most_common API to hack it! 
 
@@ -47,7 +47,7 @@ Use bucket sort. -> Key is the number of appearances, and value is the number.
 
 238. Product of Array Except for Self
 
-Link to LeetCode: (238. Product of Array Except for Self)[https://leetcode.com/problems/product-of-array-except-self/description/]
+Link to LeetCode: [238. Product of Array Except for Self](https://leetcode.com/problems/product-of-array-except-self/description/)
 
 Use itertools to generate the pre-fix and post-fix array. 
 
@@ -55,9 +55,9 @@ Use itertools to generate the pre-fix and post-fix array.
 
 36. Valid Sudoku
 
-Link to LeetCode: (36. Valid Sudoku)[https://leetcode.com/problems/valid-sudoku/description/]
+Link to LeetCode: [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
 
-Map each row to an item in default dict. 
+Map each row to an item in the default dict. 
 
 
 
