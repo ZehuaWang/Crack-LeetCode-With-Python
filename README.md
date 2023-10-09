@@ -45,3 +45,13 @@ Use bucket sort. -> Key is the number of appearances, and value is the number.
 
 ![image](https://github.com/ZehuaWang/Crack-LeetCode-With-Python/assets/40006814/9bbd6ebb-278d-415b-a04c-0de1fb14ae53)
 
+238. Product of Array Except for Self
+
+Link to LeetCode: (238. Product of Array Except for Self)[https://leetcode.com/problems/product-of-array-except-self/description/]
+
+Use itertools to generate the pre-fix and post-fix array. 
+
+![image](https://github.com/ZehuaWang/Crack-LeetCode-With-Python/assets/40006814/74195838-5fb0-4eaf-b8c1-e422cb14882b)
+
+
+
