@@ -53,5 +53,11 @@ Use itertools to generate the pre-fix and post-fix array.
 
 ![image](https://github.com/ZehuaWang/Crack-LeetCode-With-Python/assets/40006814/74195838-5fb0-4eaf-b8c1-e422cb14882b)
 
+36. Valid Sudoku
+
+Link to LeetCode: (36. Valid Sudoku)[https://leetcode.com/problems/valid-sudoku/description/]
+
+Map each row to an item in default dict. 
+
 
 
